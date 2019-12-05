@@ -1,0 +1,16 @@
+<editor>
+    <formElement>
+        <type>entry</type>
+        <label>Configuration Project Name: </label>
+        <property>configProject</property>
+        <required>0</required>
+        <documentation>Configuration Project Name, defaults to plugin if no value provided</documentation>
+    </formElement> 
+    <formElement>
+        <type>entry</type>
+        <label>Configuration Name: </label>
+        <property>config</property>
+        <required>1</required>
+        <documentation>Configuration Name</documentation>
+    </formElement> 
+</editor>
